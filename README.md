@@ -1,5 +1,5 @@
   <div align=center>
-   ![header](https://capsule-render.vercel.app/api?text=changduckGO&color=gradient&type=Soft&height=400&fontsize=900)
+![header](https://capsule-render.vercel.app/api?text=changduckGO&color=gradient&type=Soft&height=400&fontsize=900)
   </div>
 
 <!--
