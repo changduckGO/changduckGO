@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?text=changduckGO&type=waving&fontsize=90&color=00A98F&fontColor=FFFFFF&height=400)
+![header](https://capsule-render.vercel.app/api?text=changduckGO&type=waving&fontsize=90&color=00D1B2&fontColor=FFFFFF&height=400)
 
 
 <!--
