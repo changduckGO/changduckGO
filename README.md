@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=changduckGO&color=gradient&type=Soft)
+![header](https://capsule-render.vercel.app/api?text=changduckGO&color=gradient&height=300&type=Soft)
 
 <!--
 **changduckGO/changduckGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
