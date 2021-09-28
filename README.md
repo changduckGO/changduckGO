@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?text=changduckGO&color=gradient&type=Soft&height=400&fontsize=900)
+![header](https://capsule-render.vercel.app/api?text=changduckGO&fontsize=90&color=gradient&type=Soft&height=400)
 
 
 <!--
@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 [![changduckGO's GitHub stats](https://github-readme-stats.vercel.app/api?username=changduckGO&&theme=vue)](https://github.com/changduckGO/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/R-#276DC3?style=flat-square&logo=R&logoColor=#white"/>
+<img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=#white"/>
+<img src="https://img.shields.io/badge/TensorFlow-3766AB?style=flat-square&logo=R&logoColor=#white"/>
+#FF6F00
