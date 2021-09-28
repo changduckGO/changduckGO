@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <center>changduckGo</center>
+## <center>🏆changduckGo</center>
   <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FchangduckGO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   
 [![changduckGO's GitHub stats](https://github-readme-stats.vercel.app/api?username=changduckGO&&theme=vue)](https://github.com/changduckGO/github-readme-stats)
 
-## Tech Stack
+## 🛠Tech Stack🛠
 ### Language 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/R-F7DF1E?style=flat-square&logo=R&logoColor=#white"/>
+<img src="https://img.shields.io/badge/R-F7DF1E?style=flat-square&logo=R&logoColor=white"/>
 
 ### Deep Learning Framework
 <img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=PyTorch Lightning&logoColor=white"/>
