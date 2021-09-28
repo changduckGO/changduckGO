@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 	
   </div>
 <br>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changduckGO)](https://github.com/anuraghazra/github-readme-stats)
+ [![changduckGO's GitHub stats](https://github-readme-stats.vercel.app/api?username=changduckGO)](https://github.com/changduckGO/github-readme-stats)
 </br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/R-9cf?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
