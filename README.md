@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there👋 
-I'm Machine Learning Engineer 👨‍💻
-I'm working in Suwon, South Korea 🇰🇷
+- I'm Machine Learning Engineer
+- I'm working in Suwon, South Korea
 
 ## <center>🌟changduckGo</center>
 <div align=center>
