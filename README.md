@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there👋 
+I'm Machine Learning Engineer 👨‍💻
+I'm working in Suwon, South Korea 🇰🇷
+
 ## <center>🌟changduckGo</center>
 <div align=center>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FchangduckGO&count_bg=%2379C83D&title_bg=%23555555&icon=pytorch.svg&icon_color=%2319D597&title=hits&edge_flat=false"/></a>
