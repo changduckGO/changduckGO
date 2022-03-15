@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there👋 
 - I'm **Machine Learning Engineer**
-- I'm working in **Suwon, South Korea**
+- I'm working in **Seoul, South Korea**
 
 ## <center>🌟changduckGo</center>
 <div align=center>
