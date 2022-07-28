@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 ## 🛠Tech Stack🛠
 ### Language 
 <div>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
