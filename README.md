@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Hi there👋 
 - I'm **AI Software Engineer**
 - I'm working in **Seoul, South Korea**
-- I'm interested in **Computer Vision, Audio, MSA(MicroService Architecture)**
+- I'm interested in **Computer Vision, Audio, MicroService Architecture**
 
 ## <center>🌟changduckGO</center>
 <div align=center>
