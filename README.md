@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## Hi there👋 
 - I'm **AI Software Engineer**
 - I'm working in **Seoul, South Korea**
@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 
   
 [![changduckGO's GitHub stats](https://github-readme-stats.vercel.app/api?username=changduckGO&&theme=vue)](https://github.com/changduckGO/github-readme-stats)
+-->
+## Hi there👋 
+- I'm **AI Software Engineer**
+- I'm working in **Seoul, South Korea**
+- I'm interested in **Computer Vision, Audio, MicroService Architecture**
 
 ## 🛠Tech Stack🛠
 ### Language 
