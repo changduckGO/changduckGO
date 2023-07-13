@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Hi there👋 
-- I'm **AI Software Engineer**
+- I'm **Software Engineer**
 - I'm working in **Seoul, South Korea**
-- I'm interested in **Computer Vision, Audio, MicroService Architecture**
+- I'm interested in **Back-end and Cloud Architecture Design, DevOps, AI**
 
 ## <center>🌟changduckGO</center>
 <div align=center>
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 [![changduckGO's GitHub stats](https://github-readme-stats.vercel.app/api?username=changduckGO&&theme=vue)](https://github.com/changduckGO/github-readme-stats)
 -->
 ## Hi there👋 
-- I'm **AI Software Engineer**
+- I'm **Software Engineer**
 - I'm working in **Seoul, South Korea**
-- I'm interested in **Computer Vision, Audio, MicroService Architecture**
+- I'm interested in **Back-end and Cloud Architecture Design, DevOps, AI**
 
 ## 🛠Tech Stack🛠
 ### Language 
@@ -38,24 +38,28 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
 
+### Back-end Framework
+<div>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+</div>
+
+### Amazon Web Services
+<div>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-C9292C?style=flat-square&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudFront-A21CDC?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Route_53-034a24?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELB-1D2A6B?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Auto_Scaling-D6138F?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EKS-326DE6?style=flat-square&logo=kubernetes&logoColor=white"/>
+</div>
+
 ### Deep Learning Framework
 <div>
   <img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=PyTorch Lightning&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 </div>
-
-### Web Framework
-<div>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-</div>
-
-### Deployment and Monitoring
-<div>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Weights & Biases-yellow?style=flat-square&logo=weightsandbiases&logoColor=white"/>
-</div>
-
 
