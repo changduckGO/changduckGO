@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 ### Amazon Web Services
 <div>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/S3-C9292C?style=flat-square&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/CloudFront-A21CDC?style=flat-square&logo=amazonaws&logoColor=white"/>
