@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 - I'm working in **Seoul, South Korea**
 - I'm interested in **Back-end and Cloud Architecture Design, DevOps, AI**
 
-## 🛠Tech Stack🛠
+## 🛠 Tech Stack 🛠
 ### Language 
 <div>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&style=flat-square&logoColor=white"/>
 </div>
 
-### Back-end Framework
+### Back-end Framework
 <div>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
