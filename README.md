@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - I'm developing HyperSales for **efficient and effective inbound/outbound sales**.
 - I'm very interested in **B2B SaaS (especially in the sales domain), clean architecture design, and LLM**.
 <br>
-<br>
 
 ## 🛠 Tech Stack 
 ### Language 
@@ -54,7 +53,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Auto_Scaling-D6138F?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/EKS-326DE6?style=flat-square&logo=kubernetes&logoColor=white"/>
 </div>
-<br>
 <br>
 
 ## 📫 Contact
