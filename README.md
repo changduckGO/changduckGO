@@ -43,15 +43,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 </div>
 
-### Amazon Web Services
+### Containerization
 <div>
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-C9292C?style=flat-square&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudFront-A21CDC?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Route_53-034a24?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELB-1D2A6B?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Auto_Scaling-D6138F?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EKS-326DE6?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://camo.githubusercontent.com/0e31f6bf7a1744856644370d4550f33136ac79ce81ee3f873e97a46c4ff7bd11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white"/>
+<img src="https://camo.githubusercontent.com/68e4ffc847e9de629387d83146551115c4a530db85f31dc9345434af7391873b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416d617a6f6e5f4543532d4646393930303f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e656373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Amazon_ECS-FF9900?style=flat-square&amp;logo=amazonecs&amp;logoColor=white"/>
 </div>
 <br>
 
