@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 [![changduckGO's GitHub stats](https://github-readme-stats.vercel.app/api?username=changduckGO&&theme=vue)](https://github.com/changduckGO/github-readme-stats)
 -->
 ## 👋 Hi there 
-> **Supercharge Your Sales with HyperSales 🚀**
-- I'm creating HyperSales to make **inbound and outbound sales more efficient and effective**.
+> **Elevate Your Sales with HyperSales 🚀**
+- I'm creating **[HyperSales](https://hypersales.ai)** to make **inbound and outbound sales more efficient and effective**.
 - I'm really into **B2B SaaS (especially anything sales-related) and LLM**.
 <br>
 
