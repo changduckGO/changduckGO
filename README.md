@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 👋 Hi there 
 > **Elevate Your Sales with HyperSales 🚀**
 - I'm creating **[HyperSales](https://hypersales.ai)** to make **inbound and outbound sales more efficient and effective**.
-- I'm really into **B2B SaaS (especially anything sales-related) and LLM**.
+- I'm really into **B2B SaaS (especially sales intelligence, lead generation) and LLM**.
 <br>
 
 ## 🛠 Tech Stack 
